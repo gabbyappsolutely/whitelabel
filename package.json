@@ -68,7 +68,7 @@
     "jsdoc": "3.5.5",
     "mocha": "6.2.0",
     "nodemon": "1.18.10",
-    "source-map-loader": "0.2.4",
+    "source-map-loader": "4.0.1",
     "swagger-jsdoc": "3.2.7",
     "swagger-ui-express": "4.0.2",
     "tslint": "5.8.0",
